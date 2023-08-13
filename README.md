@@ -8,15 +8,15 @@ Realizado por:
 
 -------------------------------------------
 
-	Foram desenvolvidos dois programas, um cliente e um rastreador, para a transferência de video ou 
+Foram desenvolvidos dois programas, um cliente e um rastreador, para a transferência de video ou 
 música entre sistemas finais diferentes.
 	A implementação executada conta com um banco de dados
 básico para que o rastreador mantenha as informações dos usuá-
 rios com seus respectivos arquivos.
 
-	Para executarmos o código corretamente devemos:
+Para executarmos o código corretamente devemos:
 	
-	- Definir os clientes participantes, cada um em sua 
+- Definir os clientes participantes, cada um em sua 
 pasta, com uma versão CLIENTE à disposição. Dentro de cada
 pasta de clientes pode-se ter músicas ou vídeos para compar-
 tilhamento;
